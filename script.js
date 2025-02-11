@@ -59,7 +59,7 @@ const messages = [
     "Kamu seriuss???",
     "Please ayoo lahh...",
     "Pikirkan tentang itu!",
-    "Kalo kqmu pilih no,aku bakal sedih banget...",
+    "Kalo kamu pilih no,aku bakal sedih banget...",
     "Sangat sangat sedih...",
     "PLEASE BANGETT PLEASE...",
     "Dahlah. aku capek nanyainnya...",
